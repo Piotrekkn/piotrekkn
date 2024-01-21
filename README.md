@@ -1,16 +1,16 @@
 ### Hi there 👋
 
-<!--
-**Piotrekkn/piotrekkn** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+- 🔭 I’m currently looking for a job in the IT industry
+- 🌱 I’m currently working on some small projects to expand my portfolio
+- 📫 You can contact me using socials pinned in my profile
 
-Here are some ideas to get you started:
+Some programming languages and tools I work with:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+![java](assets/java.png)
+![javascript](assets/js.png)
+![c#](assets/csharp.png)
+![unity](assets/unity.png)
+![linux](assets/linux.png)
+
+
+I use Arch btw!
